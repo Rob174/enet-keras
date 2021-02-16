@@ -5,7 +5,7 @@ import numpy as np
 import os
 import pickle as pkl
 import torchfile
-from enet.definitions import get_project_root
+from enet.enet.definitions import get_project_root
 
 PROJECT_ROOT = get_project_root()
 
